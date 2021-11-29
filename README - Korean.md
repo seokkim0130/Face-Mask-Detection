@@ -27,7 +27,7 @@
 
 # 🌟 [할인된 가격으로 구매하고 싶다면?](https://gum.co/GetFaceMask)
  
-## :hourglass: 데포 버전
+## :hourglass: 데 버전
 :movie_camera: [유튜브 링크](https://youtu.be/wYwW7gAYyxw)
 
 :computer: [개발자 링크](https://dev.to/chandrikadeb7/face-mask-detection-my-major-project-3fj3)
